@@ -1,0 +1,6 @@
+c:\users\arnold\documents\visual studio 2013\Projects\Angular.Template\Angular.Template\obj\Debug\Angular.Template.csprojResolveAssemblyReference.cache
+c:\users\arnold\documents\visual studio 2013\Projects\Angular.Template\Angular.Template\bin\Angular.Template.dll.config
+c:\users\arnold\documents\visual studio 2013\Projects\Angular.Template\Angular.Template\bin\Angular.Template.dll
+c:\users\arnold\documents\visual studio 2013\Projects\Angular.Template\Angular.Template\bin\Angular.Template.pdb
+c:\users\arnold\documents\visual studio 2013\Projects\Angular.Template\Angular.Template\obj\Debug\Angular.Template.dll
+c:\users\arnold\documents\visual studio 2013\Projects\Angular.Template\Angular.Template\obj\Debug\Angular.Template.pdb
