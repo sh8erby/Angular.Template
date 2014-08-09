@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Template", "Angular.Template\Angular.Template.csproj", "{E8763F69-BD30-4A6E-B889-C30977C57163}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Angular.Template\Template.csproj", "{E8763F69-BD30-4A6E-B889-C30977C57163}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
